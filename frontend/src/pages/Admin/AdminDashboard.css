@@ -1,0 +1,11 @@
+/* src/pages/AdminDashboard.css */
+.admin-dashboard {
+    display: flex;
+  }
+  
+  .dashboard-content {
+    margin-left: 250px;
+    padding: 2rem;
+    width: calc(100% - 250px);
+  }
+  
