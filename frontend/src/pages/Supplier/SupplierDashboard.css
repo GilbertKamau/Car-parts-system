@@ -1,0 +1,28 @@
+/* src/pages/Supplier/SupplierDashboard.css */
+.supplier-dashboard {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .top-nav {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .top-nav a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .top-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .dashboard-content {
+    padding: 2rem;
+  }
+  
