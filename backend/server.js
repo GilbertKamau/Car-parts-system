@@ -23,7 +23,7 @@ app.use(express.json());
 // Define API routes
 app.use('/api/auth', authRoutes);
 app.use('/api/cart', cartRoutes);
-app.use('/api/products', productRoutes);
+app.use('/api/product', productRoutes);
 
 // Set the port number from environment variables or default to 5000
 const PORT = process.env.PORT || 5000;

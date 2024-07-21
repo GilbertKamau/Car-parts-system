@@ -1,0 +1,11 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .product-list p {
+    font-size: 18px;
+    color: #333;
+  }
+    
